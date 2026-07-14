@@ -1,0 +1,47 @@
+title: "Claude Pro / Max 国内订阅指南"
+tagline: "chonggrok.com Claude 订阅、付款与账号状态知识库"
+description: "Claude Pro、Max 5x 与 Max 20x 国内订阅指南，说明 ChongGrok 客服协助官方付款、Claude User ID 安全边界、付款被拒、续费失败和已付款仍显示 Free 的排查方法。"
+url: "https://he20000405-pixel.github.io"
+baseurl: "/claude-pro-max-china-guide"
+repository: "he20000405-pixel/claude-pro-max-china-guide"
+portal_url: "https://he20000405-pixel.github.io/"
+chatgpt_guide_url: "https://he20000405-pixel.github.io/chatgpt-plus-pro-china-guide/"
+grok_guide_url: "https://he20000405-pixel.github.io/supergrok-china-guide/"
+claude_guide_url: "https://he20000405-pixel.github.io/claude-pro-max-china-guide/"
+asset_version: "20260714-launch"
+lang: "zh-CN"
+timezone: "Asia/Shanghai"
+author:
+  name: "ChongGrok"
+  url: "https://chonggrok.com/claude"
+
+# 收到站长平台验证码后再填写；不要使用示例值。
+# google_site_verification: ""
+# bing_site_verification: ""
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: "https://he20000405-pixel.github.io/claude-pro-max-china-guide/assets/images/social-preview.png"
+  - scope:
+      path: "guides"
+    values:
+      lang: "zh-CN"
+      schema_type: Article
+
+exclude:
+  - README.md
+  - PUBLISHING.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

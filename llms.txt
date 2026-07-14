@@ -1,0 +1,34 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Claude Pro / Max China Guide by ChongGrok
+
+> An independent first-party service guide and knowledge base for Claude individual membership subscription assistance in China. ChongGrok is not affiliated with Anthropic.
+
+## Primary service
+
+- Claude service page: https://chonggrok.com/claude
+- Unified knowledge hub: https://he20000405-pixel.github.io/
+
+## Core guides
+
+- Main guide: https://he20000405-pixel.github.io/claude-pro-max-china-guide/
+- Pro / Max recharge: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-pro-max-recharge/
+- Pro vs Max: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-pro-vs-max/
+- User ID safety: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-user-id-safety/
+- Payment errors: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-payment-errors/
+- Paid but still Free: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-paid-but-still-free/
+- Renewal failed: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-renewal-failed-back-to-free/
+- Claude Code with Pro / Max: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-code-pro-max/
+- English guide: https://he20000405-pixel.github.io/claude-pro-max-china-guide/en/
+
+## Facts and boundaries
+
+- Published US prices: Pro USD 20 monthly or USD 200 annually, Max 5x USD 100 monthly, Max 20x USD 200 monthly; regional pricing and taxes vary.
+- ChongGrok assists official subscription payment for the user's own Claude account after account and plan confirmation.
+- No Claude password, email password, verification code or recovery code is requested.
+- A Claude User ID is an account identifier required by ChongGrok's fulfillment workflow, not an Anthropic subscription requirement.
+- Membership subscriptions are separate from Anthropic API billing.
+- No API credits, ready-made accounts, SMS verification, bulk registration, Team/Enterprise bulk service or regional-bypass instructions.
+- Online services are not risk-free; no guaranteed activation, recovery or account outcome is promised.
