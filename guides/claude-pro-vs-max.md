@@ -68,7 +68,7 @@ Max 5x 仍经常触顶、等待额度恢复会影响生产任务时，再考虑 
 
 Anthropic 官方说明 Pro 与 Max 都可以使用 Claude Code，但实际模型访问和使用量会随计划变化。Claude Code 使用的会员额度与 Claude 应用共享，不能把网页端和终端端理解成两份互不影响的额度。
 
-详细登录与计费边界见：[Claude Code 使用 Pro / Max 指南](claude-code-pro-max/)。
+详细登录与计费边界见：[Claude Code 使用 Pro / Max 指南](../claude-code-pro-max/)。
 
 ## 国内订阅路径
 

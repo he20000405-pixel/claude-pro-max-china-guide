@@ -50,7 +50,7 @@ faq:
 | Claude Max 5x | 100 美元 | 先联系客服确认是否可处理、金额和验收规则 |
 | Claude Max 20x | 200 美元 | 高金额方案必须先确认账号和交付范围 |
 
-三档怎么选：[Claude Pro 与 Max 选择指南](claude-pro-vs-max/)。
+三档怎么选：[Claude Pro 与 Max 选择指南](../claude-pro-vs-max/)。
 
 ## 第三步：付款并保留证据
 
@@ -75,7 +75,7 @@ Claude User ID 是 ChongGrok 履约时用于定位目标账号的标识。它不
 - 截图或公开文章中必须脱敏；
 - 不同时提交密码、验证码、恢复码或邮箱密码。
 
-首版不提供未经核实的内部接口或提取脚本。详细边界见：[Claude User ID 安全说明](claude-user-id-safety/)。
+首版不提供未经核实的内部接口或提取脚本。详细边界见：[Claude User ID 安全说明](../claude-user-id-safety/)。
 
 <!-- SCREENSHOT PLACEHOLDER
 建议文件：assets/images/claude-user-id-masked.png
@@ -98,7 +98,7 @@ alt：Claude User ID 脱敏核对示例
 - Claude 网页、桌面端或移动端显示是否一致；
 - Claude Code 是否使用同一个 Pro / Max 账号登录。
 
-如果已产生官方扣款但仍显示 Free，进入[已付款仍显示 Free 排查](claude-paid-but-still-free/)，不要重新购买。
+如果已产生官方扣款但仍显示 Free，进入[已付款仍显示 Free 排查](../claude-paid-but-still-free/)，不要重新购买。
 
 ## 什么时候联系谁
 

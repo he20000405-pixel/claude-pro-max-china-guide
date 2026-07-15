@@ -42,13 +42,13 @@ No Claude password, email password, verification code or recovery code is reques
 
 ## Core guides
 
-- [Pro / Max recharge and verification](guides/claude-pro-max-recharge/)
-- [Pro vs Max 5x vs Max 20x](guides/claude-pro-vs-max/)
-- [Claude User ID safety](guides/claude-user-id-safety/)
-- [Card decline and 3DS troubleshooting](guides/claude-payment-errors/)
-- [Paid but still showing Free](guides/claude-paid-but-still-free/)
-- [Renewal failed and downgraded to Free](guides/claude-renewal-failed-back-to-free/)
-- [Claude Code with Pro or Max](guides/claude-code-pro-max/)
+- [Pro / Max recharge and verification](../guides/claude-pro-max-recharge/)
+- [Pro vs Max 5x vs Max 20x](../guides/claude-pro-vs-max/)
+- [Claude User ID safety](../guides/claude-user-id-safety/)
+- [Card decline and 3DS troubleshooting](../guides/claude-payment-errors/)
+- [Paid but still showing Free](../guides/claude-paid-but-still-free/)
+- [Renewal failed and downgraded to Free](../guides/claude-renewal-failed-back-to-free/)
+- [Claude Code with Pro or Max](../guides/claude-code-pro-max/)
 
 ## Service boundaries
 

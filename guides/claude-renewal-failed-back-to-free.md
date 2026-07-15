@@ -31,7 +31,7 @@ faq:
 | 续费付款失败 | Billing 或邮件显示失败，银行未最终扣款 | 更新付款方式或联系银行 |
 | 主动取消后到期 | 订阅在当前周期结束后停止 | 确认没有待处理交易后再决定是否重订 |
 | 登录了其他账号 | 收据邮箱与当前登录邮箱不同 | 使用原购买账号登录 |
-| 成功扣款仍显示 Free | 有最终扣款或官方收据 | 转到[已付款仍显示 Free](claude-paid-but-still-free/) |
+| 成功扣款仍显示 Free | 有最终扣款或官方收据 | 转到[已付款仍显示 Free](../claude-paid-but-still-free/) |
 | 应用商店订阅状态不明 | 网页与商店记录不一致 | 回原购买平台核对 |
 
 ## 网页或桌面端订阅
@@ -92,4 +92,3 @@ Anthropic 官方 Billing FAQ 说明，付款方式失败可能导致账号被降
 - [Anthropic Help：Why was my card declined?](https://support.anthropic.com/en/articles/9402418-why-was-my-card-declined)
 
 {% include faq.html %}
-
