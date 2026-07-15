@@ -44,4 +44,5 @@ exclude:
   - PUBLISHING.md
   - Gemfile
   - Gemfile.lock
+  - social-preview-source.html
   - vendor
