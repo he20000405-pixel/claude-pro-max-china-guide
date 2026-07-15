@@ -85,6 +85,8 @@ Anthropic 官方 Billing FAQ 说明，付款方式失败可能导致账号被降
 - 不确定当前登录邮箱；
 - 不确定 Apple、Google Play 和网页是否存在另一份订阅。
 
+跨平台续费状态不清楚时，使用[AI 订阅付款排障决策树](https://he20000405-pixel.github.io/resources/ai-subscription-payment-troubleshooting/)区分预授权、最终扣款、有效订阅和账号权益，再决定联系对象。
+
 ## 官方来源
 
 - [Anthropic Help：Paid Plan Billing FAQs](https://support.anthropic.com/en/articles/8325618-where-can-i-find-the-receipt-for-my-claude-subscription)

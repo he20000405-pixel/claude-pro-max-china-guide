@@ -106,6 +106,8 @@ User ID 不是密码，但仍属于账号相关信息。不要在公开评论中
 
 所有截图应遮蔽完整卡号、账单地址、User ID、邮箱和订单敏感字段。
 
+需要区分账单成功、有效订阅和 Claude 账号权益时，可按[跨产品 AI 订阅付款排障决策树](https://he20000405-pixel.github.io/resources/ai-subscription-payment-troubleshooting/)继续判断。
+
 ## 官方来源
 
 - [Anthropic Help：Paid Plan Billing FAQs](https://support.anthropic.com/en/articles/8325618-where-can-i-find-the-receipt-for-my-claude-subscription)
