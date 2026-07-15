@@ -1,5 +1,5 @@
 ---
-title: "2026 Claude Pro / Max 国内订阅指南：付款、User ID 与报错排查"
+title: "Claude Pro / Max 国内订阅指南：付款与 User ID 排查"
 description: "ChongGrok Claude Pro、Max 5x 和 Max 20x 国内订阅指南，覆盖客服协助官方付款、User ID 安全、银行卡被拒、续费失败、已付款仍显示 Free 和 Claude Code。"
 permalink: /
 last_modified_at: 2026-07-14

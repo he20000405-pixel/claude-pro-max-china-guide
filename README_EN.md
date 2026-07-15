@@ -1,6 +1,6 @@
 ---
-title: "Claude Pro and Max Subscription in China: User ID and Payment Guide"
-description: "English guide to Claude Pro, Max 5x and Max 20x subscription assistance through ChongGrok, including User ID safety, card declines, paid-but-Free checks and Claude Code plan access."
+title: "Claude Pro and Max Subscription Guide"
+description: "English guide to Claude Pro and Max subscription assistance through ChongGrok, covering User ID safety, card declines, paid-but-Free checks and Claude Code access."
 permalink: /en/
 lang: en
 last_modified_at: 2026-07-14

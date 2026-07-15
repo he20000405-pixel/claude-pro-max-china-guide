@@ -1,5 +1,5 @@
 ---
-title: "Claude Pro、Max 5x、Max 20x 怎么选：价格、用量与 Claude Code 边界"
+title: "Claude Pro、Max 5x、Max 20x 怎么选"
 description: "对比 Claude Pro 月付 20 美元或年付 200 美元、Max 5x 每月 100 美元和 Max 20x 每月 200 美元的官方定位、使用强度、Claude Code 场景和国内订阅入口。"
 permalink: /guides/claude-pro-vs-max/
 date_published: 2026-07-14

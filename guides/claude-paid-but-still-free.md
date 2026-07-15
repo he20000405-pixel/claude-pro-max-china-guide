@@ -1,5 +1,5 @@
 ---
-title: "Claude 已付款但仍显示 Free：登录邮箱、Billing、App Store 与账号归属排查"
+title: "Claude 已付款仍显示 Free：Billing 与账号归属排查"
 description: "Claude Pro 或 Max 已扣款但仍显示 Free 时，检查官方收据、Settings > Billing、原登录邮箱、网页或应用商店购买入口，以及 ChongGrok 订单和 User ID。"
 permalink: /guides/claude-paid-but-still-free/
 date_published: 2026-07-14
@@ -112,4 +112,3 @@ User ID 不是密码，但仍属于账号相关信息。不要在公开评论中
 - [Anthropic Help：Cancel a paid subscription](https://support.anthropic.com/en/articles/8325617-how-do-i-cancel-my-paid-claude-subscription)
 
 {% include faq.html %}
-
