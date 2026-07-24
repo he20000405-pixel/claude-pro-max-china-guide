@@ -59,7 +59,7 @@ ChongGrok only assists with individual Claude membership subscriptions in this r
 - [Anthropic plans and pricing](https://www.anthropic.com/pricing?subjects=claude&type=product)
 - [Choose a Claude plan](https://support.claude.com/en/articles/11049762-choose-a-claude-plan)
 - [What is the Max plan?](https://support.claude.com/en/articles/11049741-what-is-the-max-plan)
-- [Claude Pro pricing](https://support.anthropic.com/en/articles/8325610-how-much-does-claude-pro-cost)
+- [What is the Pro plan?](https://support.claude.com/en/articles/8325606-what-is-the-pro-plan)
 - [Paid Plan Billing FAQs](https://support.anthropic.com/en/articles/8325618-where-can-i-find-the-receipt-for-my-claude-subscription)
 - [Why was my card declined?](https://support.anthropic.com/en/articles/9402418-why-was-my-card-declined)
 - [Using Claude Code with Pro or Max](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)

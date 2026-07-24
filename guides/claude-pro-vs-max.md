@@ -86,7 +86,7 @@ Anthropic 官方说明 Pro 与 Max 都可以使用 Claude Code，但实际模型
 - [Anthropic plans and pricing](https://www.anthropic.com/pricing?subjects=claude&type=product)
 - [Claude Help：Choose a Claude plan](https://support.claude.com/en/articles/11049762-choose-a-claude-plan)
 - [Claude Help：What is the Max plan?](https://support.claude.com/en/articles/11049741-what-is-the-max-plan)
-- [How much does Claude Pro cost?](https://support.anthropic.com/en/articles/8325610-how-much-does-claude-pro-cost)
+- [What is the Pro plan?](https://support.claude.com/en/articles/8325606-what-is-the-pro-plan)
 - [Using Claude Code with Pro or Max](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
 
 {% include faq.html %}
