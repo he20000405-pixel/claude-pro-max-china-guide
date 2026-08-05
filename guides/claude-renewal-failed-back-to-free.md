@@ -3,7 +3,7 @@ title: "Claude Pro / Max 续费失败后变回 Free：付款方式、到期与�
 description: "Claude Pro 或 Max 续费失败、订阅到期或被降级为 Free 时，检查 Billing、付款方式、原购买平台、登录邮箱和跨平台重复订阅。"
 permalink: /guides/claude-renewal-failed-back-to-free/
 date_published: 2026-07-14
-last_modified_at: 2026-07-14
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -66,6 +66,8 @@ Anthropic 官方 Billing FAQ 说明，付款方式失败可能导致账号被降
 - 银行没有待处理扣款；
 - 当前登录的是目标 Claude 账号。
 
+五项全部确认后，如果原订阅确实已经结束、没有待处理交易且账号仍为 Free，才进入新的订阅决策。只要其中一项不确定，就应停在原渠道继续核对。
+
 ## ChongGrok 原订单续费
 
 如果原会员由 ChongGrok 协助开通：
@@ -85,7 +87,11 @@ Anthropic 官方 Billing FAQ 说明，付款方式失败可能导致账号被降
 - 不确定当前登录邮箱；
 - 不确定 Apple、Google Play 和网页是否存在另一份订阅。
 
-跨平台续费状态不清楚时，使用[AI 订阅付款排障决策树](https://he20000405-pixel.github.io/resources/ai-subscription-payment-troubleshooting/)区分预授权、最终扣款、有效订阅和账号权益，再决定联系对象。
+跨平台续费状态不清楚时，使用[AI 订阅付款排障决策树](https://he20000405-pixel.github.io/resources/ai-subscription-payment-troubleshooting/)区分银行是否仍在处理、平台是否已经收款、订阅是否有效，以及当前账号是否显示会员，再决定联系对象。
+
+## 恢复后的验收
+
+续费处理完成后，回到原购买账号确认 Billing 显示有效计划、下一结算日期正确，并检查 Claude 网页或 App 已恢复对应权益。若已有成功扣款但仍显示 Free，请转入已付款专题，不要继续更换付款入口。
 
 ## 官方来源
 

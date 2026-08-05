@@ -3,7 +3,7 @@ title: "Claude Pro and Max Subscription Guide"
 description: "English guide to Claude Pro and Max subscription assistance through ChongGrok, covering User ID safety, card declines, paid-but-Free checks and Claude Code access."
 permalink: /en/
 lang: en
-last_modified_at: 2026-07-14
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Claude Guide
     url: /
@@ -19,11 +19,20 @@ This is ChongGrok's independent knowledge base for Claude Pro, Max 5x and Max 20
 
 > ChongGrok is an independent third-party subscription assistance service. It is not affiliated with, authorized by or officially partnered with Anthropic. Plan availability, pricing, usage limits and regional access are determined by Anthropic.
 
+## Start with the symptom you see
+
+| Current situation | First check | Stop condition |
+| --- | --- | --- |
+| You have not subscribed and do not know which plan to choose | Record where Free or Pro actually blocks your work before comparing plans | Do not upgrade if the current plan completes your regular tasks |
+| A card payment failed | Save the exact error, time and billing channel before troubleshooting | Do not retry if a charge, pending transaction or receipt exists |
+| You paid but Claude still shows Free | Match the receipt email, current login and `Settings > Billing` | Do not create a second subscription while the first order is unresolved |
+| Claude Code does not use the membership | Confirm the web plan is active, then check the account used by the terminal | Stop if Claude Code is using API-key billing instead of the subscription |
+
 ## Current individual plan boundaries
 
 | Plan | Published US monthly price | Suggested use |
 | --- | ---: | --- |
-| Claude Pro | USD 20 monthly or USD 200 annually | Daily writing, document analysis and light Claude Code work |
+| Claude Pro | USD 20 monthly on the web; annual price shown at checkout | Daily writing, document analysis and light Claude Code work |
 | Claude Max 5x | USD 100 | Higher-frequency workflows when Pro is consistently limiting |
 | Claude Max 20x | USD 200 | Sustained, heavy knowledge and coding workflows |
 
@@ -39,6 +48,8 @@ Taxes and regional prices may differ. Max 5x and Max 20x require confirmation th
 6. Verify the plan, payment status and invoice in Claude `Settings > Billing`.
 
 No Claude password, email password, verification code or recovery code is requested. A Claude User ID is not a password, but it remains account-related information and should only be submitted through the confirmed order workflow.
+
+The process is complete only when the target account shows the expected plan in `Settings > Billing`, the login email matches the intended account and Claude Code uses the same subscription identity. A payment message or support chat alone does not prove that the paid plan is active on that account.
 
 ## Core guides
 

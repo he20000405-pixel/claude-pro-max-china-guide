@@ -3,7 +3,7 @@ title: "Claude Pro / Max 国内订阅：客服协助官方付款与验收流程"
 description: "Claude Pro、Max 5x、Max 20x 国内订阅流程：确认自己的 Claude 账号、选择套餐、提交 User ID、客服使用海外卡协助官方付款，并在 Billing 页面验收。"
 permalink: /guides/claude-pro-max-recharge/
 date_published: 2026-07-14
-last_modified_at: 2026-07-14
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -46,7 +46,7 @@ faq:
 
 | 目标套餐 | 官方美国月费 | 建议动作 |
 | --- | ---: | --- |
-| Claude Pro | 月付 20 美元；年付 200 美元 | 在主站查看实时人民币方案并与客服核对账号 |
+| Claude Pro | 网页月付 20 美元；年付以结账页为准 | 在主站查看实时人民币方案并与客服核对账号 |
 | Claude Max 5x | 100 美元 | 先联系客服确认是否可处理、金额和验收规则 |
 | Claude Max 20x | 200 美元 | 高金额方案必须先确认账号和交付范围 |
 
@@ -77,6 +77,8 @@ Claude User ID 是 ChongGrok 履约时用于定位目标账号的标识。它不
 
 首版不提供未经核实的内部接口或提取脚本。详细边界见：[Claude User ID 安全说明](../claude-user-id-safety/)。
 
+如果客服尚未给出当前可核对的入口，或你无法确定 User ID 属于哪个账号，请停止提交并让客服继续核对。不要把整段会话数据、Cookie 或其他账号字段作为替代。
+
 <!-- SCREENSHOT PLACEHOLDER
 建议文件：assets/images/claude-user-id-masked.png
 内容：真实 Claude User ID 核对画面，必须遮蔽中间字符和其他账号信息
@@ -100,6 +102,8 @@ alt：Claude User ID 脱敏核对示例
 
 如果已产生官方扣款但仍显示 Free，进入[已付款仍显示 Free 排查](../claude-paid-but-still-free/)，不要重新购买。
 
+只有套餐、登录邮箱和 Billing 状态三项都正确，才算验收完成。如果任一项不一致，保留页面状态并按下一节找到责任方，不要再次付款。
+
 ## 什么时候联系谁
 
 | 情况 | 优先联系 |
@@ -108,7 +112,7 @@ alt：Claude User ID 脱敏核对示例
 | Anthropic 网页账单、官方收据或账号订阅异常 | Anthropic 支持 |
 | App Store 订单或退款 | Apple 支持 |
 | Google Play 订单或退款 | Google Play 支持 |
-| 银行卡拒付、3DS 或预授权 | 发卡银行 |
+| 银行卡拒付、3DS 验证失败或交易长期显示“待处理” | 发卡银行 |
 
 ## 风险边界
 

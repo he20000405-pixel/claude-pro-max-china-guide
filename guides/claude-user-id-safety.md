@@ -1,9 +1,9 @@
 ---
-title: "Claude User ID 是什么：格式、用途、脱敏与安全提交说明"
-description: "说明 ChongGrok Claude 订阅履约所需 User ID 的格式核对、账号核对、脱敏方法、提交边界，以及为什么它不是密码也不是 Anthropic 官方订阅要求。"
+title: "Claude User ID：用途、安全核对与提交边界"
+description: "说明 ChongGrok Claude 订阅履约所需 User ID 的用途、账号核对、脱敏和提交边界，以及为什么它不是密码或 Anthropic 官方订阅要求。"
 permalink: /guides/claude-user-id-safety/
 date_published: 2026-07-14
-last_modified_at: 2026-07-14
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -20,9 +20,22 @@ faq:
     answer: "Claude 页面和内部接口可能变化。没有当前真实入口与脱敏截图前，不应凭猜测发布可能失效或误导用户的获取步骤。"
 ---
 
-# Claude User ID 格式、用途与安全提交
+# Claude User ID 用途与安全提交
 
-<p class="lead">Claude User ID 不是密码，但也不应公开传播。首版只说明如何识别、核对和安全提交，不提供未经当前真实环境验证的内部接口或提取脚本。</p>
+<p class="lead">Claude User ID 不是密码，但也不应公开传播。本文不提供固定提取接口；只有客服在当前订单中给出可核对的入口后，用户才应继续提交。</p>
+
+## 如果你正在找“从哪里获取”
+
+当前没有一条经过公开官方文档确认、适合所有账号长期使用的自助提取路径。因此，正确操作不是打开第三方提供的内部接口，也不是复制整段浏览器会话数据。
+
+请按以下顺序处理：
+
+1. 先在 <https://chonggrok.com/claude> 联系客服，并说明准备开通的套餐。
+2. 等客服给出当前订单所需的核对入口和字段说明。
+3. 确认页面仍登录目标 Claude 账号，只复制明确要求的 User ID。
+4. 如果页面、字段或账号归属与客服说明不一致，立即停止，不要猜测其他字符串。
+
+没有获得当前入口说明时，本页只能帮助你理解安全边界，不能替代客服确认。
 
 ## 它解决什么问题
 

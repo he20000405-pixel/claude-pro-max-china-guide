@@ -1,9 +1,9 @@
 ---
 title: "Claude Pro、Max 5x、Max 20x 怎么选"
-description: "对比 Claude Pro 月付 20 美元或年付 200 美元、Max 5x 每月 100 美元和 Max 20x 每月 200 美元的官方定位、使用强度、Claude Code 场景和国内订阅入口。"
+description: "对比 Claude Pro 网页月付 20 美元、年付实时结账价，以及 Max 5x 每月 100 美元和 Max 20x 每月 200 美元的官方定位、使用强度、Claude Code 场景和国内订阅入口。"
 permalink: /guides/claude-pro-vs-max/
 date_published: 2026-07-14
-last_modified_at: 2026-07-14
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -28,7 +28,7 @@ faq:
 
 | 套餐 | 官方美国月费 | 官方定位 | 更适合 |
 | --- | ---: | --- | --- |
-| Claude Pro | 月付 20 美元；年付 200 美元 | 高于 Free 的用量、优先访问和更多功能 | 写作、资料分析、文件处理、轻量 Claude Code |
+| Claude Pro | 网页月付 20 美元；年付以结账页为准 | 高于 Free 的用量、优先访问和更多功能 | 写作、资料分析、文件处理、轻量 Claude Code |
 | Claude Max 5x | 100 美元 | 相对 Pro 更高使用量 | 每天持续使用、较大项目、Pro 经常触顶 |
 | Claude Max 20x | 200 美元 | Max 的更高用量档 | 重度知识工作和持续 Claude Code 工作流 |
 
@@ -64,6 +64,19 @@ faq:
 
 Max 5x 仍经常触顶、等待额度恢复会影响生产任务时，再考虑 Max 20x。高金额方案付款前应再次确认账号、套餐和验收规则。
 
+## 用一周记录做决定
+
+不要只凭“感觉不够用”升级。连续记录 7 天：在哪个入口使用、出现限制的时间、当时正在做的任务，以及等待恢复是否真的影响工作。
+
+记录完成后按下面判断：
+
+1. 没有遇到限制，或限制不影响任务：保留当前套餐。
+2. Free 经常中断日常工作：先考虑 Pro。
+3. Pro 在多数工作日都会触达限制：再比较 Max 5x。
+4. Max 5x 仍稳定影响交付：才评估 Max 20x。
+
+如果账号已有有效订阅、待处理升级或成功扣款，先完成原订单核对，不要为了比较套餐再创建一份订阅。
+
 ## Claude Code 的选择边界
 
 Anthropic 官方说明 Pro 与 Max 都可以使用 Claude Code，但实际模型访问和使用量会随计划变化。Claude Code 使用的会员额度与 Claude 应用共享，不能把网页端和终端端理解成两份互不影响的额度。
@@ -80,6 +93,8 @@ Anthropic 官方说明 Pro 与 Max 都可以使用 Claude Code，但实际模型
 - Max 5x / 20x 先通过同一页面联系客服；
 - 不需要密码，按客服确认提交 Claude User ID；
 - 完成后回 `Settings > Billing` 验收。
+
+验收完成的标志是：目标账号显示正确套餐、结算状态没有错误、登录邮箱与下单账号一致。只看到付款成功提示，不等于上述三项已经完成。
 
 ## 官方来源
 

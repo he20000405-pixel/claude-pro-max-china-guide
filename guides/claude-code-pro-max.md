@@ -3,7 +3,7 @@ title: "Claude Code 使用 Pro / Max：登录账号、会员额度与 API 计费
 description: "Claude Code 使用 Claude Pro 或 Max 会员的登录指南：用同一 Claude 账号认证，检查套餐、更新客户端、切换错误账号，并区分会员额度与 API 计费。"
 permalink: /guides/claude-code-pro-max/
 date_published: 2026-07-14
-last_modified_at: 2026-07-14
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -22,7 +22,15 @@ faq:
 
 # Claude Code 使用 Pro / Max
 
-<p class="lead">Claude Code 应使用与你的 Claude Pro 或 Max 订阅相同的账号登录。登录错误、客户端过旧或误用 Console 账号，都可能导致终端看不到预期的会员权益。</p>
+<p class="lead">先在 Claude 网页确认 Pro 或 Max 仍有效，再让 Claude Code 登录同一个账号。若终端正在使用 API Key，继续操作可能进入独立计费，而不是消耗会员用量。</p>
+
+## 开始前先确认三件事
+
+1. 在 Claude 网页打开 `Settings > Billing`，确认计划显示 Pro、Max 5x 或 Max 20x。
+2. 记录网页当前登录邮箱，不要只看头像或昵称。
+3. 如果系统配置了 `ANTHROPIC_API_KEY`，先停止登录排查。Anthropic 官方说明，该变量可能让 Claude Code优先使用 API Key 并产生独立费用。
+
+如果网页本身显示 Free，请先处理[已付款仍显示 Free](../claude-paid-but-still-free/)或[续费失败](../claude-renewal-failed-back-to-free/)，不要在终端反复登录。
 
 ## 官方支持边界
 
@@ -38,7 +46,7 @@ Anthropic 官方说明 Pro 与 Max 订阅都可用于 Claude Code。Pro 适合�
 
 ## 登录正确的会员账号
 
-首次运行时，按 Claude Code 提示通过浏览器登录，选择与 Claude Pro / Max 相同的账号。验证后检查：
+首次运行时，按 Claude Code 提示通过浏览器登录，选择与 Claude Pro / Max 相同的账号。浏览器授权完成后回到终端，确认没有再次出现登录提示，然后检查：
 
 - 浏览器登录邮箱与 Claude Billing 中的订阅邮箱一致；
 - Claude Code 没有连接到另一个免费账号；
@@ -47,20 +55,24 @@ Anthropic 官方说明 Pro 与 Max 订阅都可用于 Claude Code。Pro 适合�
 
 ## 登录错账号时的处理顺序
 
-Anthropic 官方建议遇到账号选择问题时：
+Anthropic 官方给出的重新登录顺序是：
 
 ```text
 /logout
 claude update
 ```
 
-然后完全重启终端，再运行 `claude`，重新选择正确的 Pro 或 Max 账号登录。命令和界面可能随版本变化，以当前 Claude Code 提示为准。
+执行 `/logout` 后运行 `claude update`，完全关闭并重新打开终端，再运行 `claude`。出现账号选择时，使用与网页 Billing 相同的 Claude 账号。
+
+预期结果是终端进入 Claude Code 会话，并使用订阅账号。如果仍显示另一个账号、API 计费或登录循环，请停止重复授权，保存终端提示和当前版本，再联系 Anthropic 支持。
 
 ## 会员额度与 API 计费不是一回事
 
 Claude Pro / Max 是个人会员订阅；Anthropic Console/API 是另一套计费体系。本文不提供 API 充值或 API 使用教程。
 
 使用 Claude Code 时应确认当前选择的是会员账号。如果终端提示切换到额外付费或其他计费方式，先阅读提示并确认自己的目标，不要默认同意产生另一套费用。
+
+如果只希望使用会员包含的额度，应拒绝额外计费选项。本文不提供 API Key、API 额度或自动充值设置教程。
 
 ## Claude Code 显示无会员时怎么排查
 
@@ -71,6 +83,15 @@ Claude Pro / Max 是个人会员订阅；Anthropic Console/API 是另一套计�
 5. 完全退出后重新登录；
 6. 如果官方已成功扣款但账号仍为 Free，进入[已付款仍显示 Free](../claude-paid-but-still-free/)；
 7. 如果续费失败，进入[续费失败专题](../claude-renewal-failed-back-to-free/)。
+
+## 完成验收
+
+下面四项同时满足，才算排查完成：
+
+- 网页 `Settings > Billing` 显示有效 Pro 或 Max；
+- 网页与 Claude Code 使用同一个登录账号；
+- 终端可以正常进入 Claude Code 会话；
+- 没有在不知情的情况下切换到 API Key 或额外计费。
 
 ## 订阅选择与国内付款
 
