@@ -3,7 +3,7 @@ title: "Claude 已付款仍显示 Free：Billing 与账号归属排查"
 description: "Claude Pro 或 Max 已扣款但仍显示 Free 时，检查官方收据、Settings > Billing、原登录邮箱、网页或应用商店购买入口，以及 ChongGrok 订单和 User ID。"
 permalink: /guides/claude-paid-but-still-free/
 date_published: 2026-07-14
-last_modified_at: 2026-07-14
+last_modified_at: 2026-08-17
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -74,6 +74,13 @@ Anthropic 官方 Billing FAQ 将“登录了不同邮箱”列为付费账号显
 
 检查原 Google Play 账号中的订阅状态和订单，并确认 Claude App 登录的是原购买账号。不要套用 iOS 专用的恢复购买入口。
 
+需要退款时先判断订阅是否仍然有效：
+
+- **订阅仍有效：**在 Claude 中点击头像或姓名，选择 `Get help → Send us a message → Claude Refund Request`，由 Anthropic 支持检查退款资格；
+- **订阅已经失效，申请历史 Play Store 付款退款：**Anthropic 当前说明其团队无法处理这类历史付款，应联系 Google 支持。
+
+取消未来续费仍在 Google Play 或 Claude Android App 的 `Billing → Manage subscription` 中完成。取消与退款是两项不同操作。
+
 ## 第五步：ChongGrok 订单路径
 
 如果这笔付款是 ChongGrok Claude 订阅协助订单：
@@ -91,7 +98,9 @@ User ID 不是密码，但仍属于账号相关信息。不要在公开评论中
 | --- | --- |
 | Anthropic 官方收据存在，但 Billing 不显示 | Anthropic 支持 |
 | App Store 订单、退款或扣款 | Apple 支持 |
-| Google Play 订单、退款或扣款 | Google Play 支持 |
+| Google Play 订阅状态和取消 | Google Play |
+| Android 有效订阅的退款资格 | Anthropic 支持中的 Claude Refund Request |
+| 已失效 Android 订阅的历史 Play Store 付款 | Google 支持 |
 | 银行待处理或重复扣款 | 发卡银行 |
 | ChongGrok 订单、User ID 或处理记录 | ChongGrok 客服 |
 
@@ -112,5 +121,8 @@ User ID 不是密码，但仍属于账号相关信息。不要在公开评论中
 
 - [Anthropic Help：Paid Plan Billing FAQs](https://support.anthropic.com/en/articles/8325618-where-can-i-find-the-receipt-for-my-claude-subscription)
 - [Anthropic Help：Cancel a paid subscription](https://support.anthropic.com/en/articles/8325617-how-do-i-cancel-my-paid-claude-subscription)
+- [Anthropic Help：Requesting a refund for a paid Claude plan](https://support.claude.com/en/articles/12386328-requesting-a-refund-for-a-paid-claude-plan)
+
+**事实核验日期：2026 年 8 月 17 日。**退款资格和入口以 Anthropic、Apple 与 Google 的实时页面为准。
 
 {% include faq.html %}

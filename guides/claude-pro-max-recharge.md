@@ -3,7 +3,7 @@ title: "Claude Pro / Max 国内订阅：客服协助官方付款与验收流程"
 description: "Claude Pro、Max 5x、Max 20x 国内订阅流程：确认自己的 Claude 账号、选择套餐、提交 User ID、客服使用海外卡协助官方付款，并在 Billing 页面验收。"
 permalink: /guides/claude-pro-max-recharge/
 date_published: 2026-07-14
-last_modified_at: 2026-08-05
+last_modified_at: 2026-08-17
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -111,7 +111,9 @@ alt：Claude User ID 脱敏核对示例
 | ChongGrok 订单、User ID 或处理记录不一致 | ChongGrok 客服 |
 | Anthropic 网页账单、官方收据或账号订阅异常 | Anthropic 支持 |
 | App Store 订单或退款 | Apple 支持 |
-| Google Play 订单或退款 | Google Play 支持 |
+| Google Play 订阅状态和取消 | Google Play |
+| Android 有效订阅的退款资格 | Anthropic 支持中的 Claude Refund Request |
+| 已失效 Android 订阅的历史 Play Store 付款 | Google 支持 |
 | 银行卡拒付、3DS 验证失败或交易长期显示“待处理” | 发卡银行 |
 
 ## 风险边界
@@ -123,5 +125,8 @@ ChongGrok 不需要密码，但 User ID 仍应谨慎提交。任何线上订阅�
 - [Anthropic plans and pricing](https://www.anthropic.com/pricing?subjects=claude&type=product)
 - [Paid Plan Billing FAQs](https://support.anthropic.com/en/articles/8325618-where-can-i-find-the-receipt-for-my-claude-subscription)
 - [What is the Pro plan?](https://support.claude.com/en/articles/8325606-what-is-the-pro-plan)
+- [Requesting a refund for a paid Claude plan](https://support.claude.com/en/articles/12386328-requesting-a-refund-for-a-paid-claude-plan)
+
+**事实核验日期：2026 年 8 月 17 日。**退款资格和支持入口以 Anthropic、Apple 与 Google 的实时页面为准。
 
 {% include faq.html %}
