@@ -1,8 +1,8 @@
 # 2026 Claude Pro / Max 国内订阅指南：支付宝微信付款、User ID、付款失败与订阅排查
 
-> **English summary:** An independent Claude Pro and Max subscription guide by [ChongGrok](https://chonggrok.com/claude), covering assisted official payment, Claude User ID safety, card declines, renewal failures, paid-but-Free account checks, and Claude Code plan access. [Read the English guide](README_EN.md).
+> **English summary:** An independent Claude Pro and Max knowledge base by [ChongGrok](https://chonggrok.com/claude), covering plan choice, account safety and payment troubleshooting. The current merchant service is a personal monthly Pro subscription on the customer's own account, opened through assisted iOS in-app purchase; Max is not offered. [Read the English guide](README_EN.md).
 
-这是 **ChongGrok Claude 会员订阅知识库**。内容围绕 Claude Pro、Max 5x、Max 20x 的官方套餐边界、国内付款、客服协助官方订阅、账号验收和高意向报错排查展开。
+这是 **ChongGrok Claude 会员订阅知识库**。内容围绕 Claude Pro、Max 5x、Max 20x 的官方套餐知识、付款与账号状态排查展开。商家当前服务仅为自有账号个人 Pro 月度开通，人工通过 iOS 内购办理，不提供 Max、团队席位或 API。
 
 **服务入口：<https://chonggrok.com/claude>**
 
@@ -13,10 +13,10 @@
 | 问题 | 直接回答 |
 | --- | --- |
 | 官方个人套餐有哪些？ | Claude Pro 网页月付为 20 美元，也提供年付选项；Max 5x 为 100 美元/月；Max 20x 为 200 美元/月。年付、移动端、税费和地区价格以账号结账页为准。 |
-| ChongGrok 怎么处理？ | 用户给自己的 Claude 账号开通，由客服确认账号和套餐后使用海外卡协助完成官方付款。 |
+| ChongGrok 怎么处理？ | 核对账号、支持地区与资料要求后，人工通过 iOS 内购为用户自有账号开通个人 Pro 月度订阅。 |
 | 是否需要密码？ | 不需要 Claude 密码、邮箱密码、验证码或恢复码。 |
-| User ID 是什么？ | ChongGrok 履约时用于定位目标 Claude 账号的标识；它不是密码，也不是 Anthropic 官方订阅步骤。具体格式只按客服当前确认界面核对，不根据旧教程猜测。 |
-| Max 是否有公开人民币固定价？ | 当前主站公开页以 Pro 为主；Max 5x/20x 先通过 Claude 页面联系客服确认，不在本文固定人民币价格。 |
+| User ID 是什么？ | Claude 账号标识，不是密码。是否需要提交以当前订单要求为准；先确认用途与所属账号，不根据旧教程猜测或发送完整会话数据。 |
+| ChongGrok 提供 Max 吗？ | 不提供。Max 5x/20x 保留为官方套餐知识；购买、续费和管理请使用 Claude 官方渠道。 |
 | 是否提供 API？ | 不提供。这里只讨论 Claude 个人会员订阅，不提供 API 额度或 API 充值。 |
 
 ## 先判断套餐
@@ -24,8 +24,8 @@
 | 套餐 | 官方月费 | 适合情况 | ChongGrok 入口 |
 | --- | ---: | --- | --- |
 | Claude Pro | 网页月付 20 美元；年付以结账页为准 | 日常写作、资料整理、文件分析和轻量 Claude Code | 主站查看实时方案 |
-| Claude Max 5x | 100 美元 | Pro 用量长期不足、较高频知识工作和更大的代码任务 | 先联系客服确认 |
-| Claude Max 20x | 200 美元 | Max 5x 仍不足的重度、持续工作流 | 先联系客服确认 |
+| Claude Max 5x | 100 美元 | Pro 用量长期不足、较高频知识工作和更大的代码任务 | 本站不提供，请查看 Claude 官方渠道 |
+| Claude Max 20x | 200 美元 | Max 5x 仍不足的重度、持续工作流 | 本站不提供，请查看 Claude 官方渠道 |
 
 详细决策见：[Claude Pro、Max 5x、Max 20x 怎么选](guides/claude-pro-vs-max.md)。
 
@@ -38,20 +38,20 @@
 | 已扣款但 Claude 仍显示 Free | 核对收据邮箱、当前登录邮箱和 `Settings > Billing` | 原订单没有查清前，不要新建第二份订阅 |
 | Claude Code 没有识别会员 | 先确认网页 Billing 有效，再核对终端登录账号 | 终端正在使用 API Key 计费时，先停止并确认计费方式 |
 
-## 客服协助官方付款流程
+## Pro 月度开通流程
 
-1. 打开 <https://chonggrok.com/claude>，确认准备开通 Pro、Max 5x 或 Max 20x。
-2. 联系客服，说明目标套餐和当前 Claude 账号状态。
-3. 按客服确认的流程付款，并仅提交履约所需的 Claude User ID。
-4. 客服使用海外卡协助为目标账号完成官方订阅付款。
-5. 用户回到 Claude 官方页面的 `Settings > Billing` 验收套餐、付款状态和账单。
+1. 打开 <https://chonggrok.com/claude>，核对个人 Pro 月度服务、实时金额与售后条件。
+2. 联系客服，确认 Claude 账号能正常登录、本人符合支持地区要求，且没有未查清的订阅或待处理交易。
+3. 按确认后的流程付款，只提供当前订单所需的账号资料；若需 User ID，先核对用途和所属账号。
+4. 人工通过 iOS 内购为目标账号开通 Pro 月度订阅。
+5. 用户回到 Claude 的 `Settings > Billing`，验收 Pro 状态、有效期与订单交付结果。
 6. 如状态不一致，保留订单、付款记录和 Claude Billing 页面信息，由对应责任方继续排查。
 
-完整流程见：[Claude Pro / Max 客服协助付款与验收](guides/claude-pro-max-recharge.md)。
+完整流程见：[Claude Pro 月度开通与验收](guides/claude-pro-max-recharge.md)。
 
 ## 七个核心专题
 
-1. [Claude Pro / Max 客服协助付款与验收](guides/claude-pro-max-recharge.md)
+1. [Claude Pro 月度开通与验收](guides/claude-pro-max-recharge.md)
 2. [Claude Pro、Max 5x、Max 20x 怎么选](guides/claude-pro-vs-max.md)
 3. [Claude User ID 格式、用途与安全提交](guides/claude-user-id-safety.md)
 4. [Claude 银行卡被拒、账单地址与 3DS 排查](guides/claude-payment-errors.md)
@@ -61,9 +61,11 @@
 
 ## 安全与服务边界
 
-- 不索要 Claude 密码、邮箱密码、验证码或恢复码。
+- 不索要 Claude 密码、邮箱密码、验证码或恢复码，不要发送完整会话令牌。
 - User ID 不是密码，但仍应只在确认的客服履约流程中提交。
 - 不承诺绝对安全、固定到账、保证恢复或所有账号都能开通。
+- 付款和 iOS 内购不会改变地区或身份验证要求；开通失败按约定处理退款，成功开通后的官方风控封号不提供质保。
+- 服务仅为个人 Pro 月度，不包含 Max；官方 Max 套餐比较不代表商家可售范围。
 - 不提供 API 额度、成品号、接码、批量注册、Team/Enterprise 批量业务或地区限制规避教程。
 - 官方套餐与会员订阅不等于 Anthropic API 额度。
 
@@ -79,4 +81,6 @@
 
 GitHub Pages：<https://he20000405-pixel.github.io/claude-pro-max-china-guide/>
 
-最后更新：2026-08-05
+指南门户：<https://guides.chonggrok.com/>
+
+服务说明更新：2026-10-28；官方套餐与价格以实时页面为准。

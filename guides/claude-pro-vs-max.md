@@ -3,7 +3,7 @@ title: "Claude Pro、Max 5x、Max 20x 怎么选"
 description: "对比 Claude Pro 网页月付 20 美元、年付实时结账价，以及 Max 5x 每月 100 美元和 Max 20x 每月 200 美元的官方定位、使用强度、Claude Code 场景和国内订阅入口。"
 permalink: /guides/claude-pro-vs-max/
 date_published: 2026-07-14
-last_modified_at: 2026-08-05
+last_modified_at: 2026-10-28
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -87,12 +87,12 @@ Anthropic 官方说明 Pro 与 Max 都可以使用 Claude Code，但实际模型
 
 如果有受支持地区发行、账单信息匹配且可完成 3DS 的银行卡，可以直接通过 Anthropic 官方页面订阅。
 
-没有合适海外付款方式时，ChongGrok 可为用户自己的 Claude 账号提供会员订阅协助：
+没有合适海外付款方式、且确认原订单没有未解决问题时，可查看 [ChongGrok 当前 Claude 服务](https://chonggrok.com/claude)：
 
-- Pro 从 <https://chonggrok.com/claude> 查看实时方案；
-- Max 5x / 20x 先通过同一页面联系客服；
-- 不需要密码，按客服确认提交 Claude User ID；
-- 完成后回 `Settings > Billing` 验收。
+- 仅为自有账号开通个人 Pro 月度订阅，通过人工 iOS 内购办理；
+- 不提供 Max 5x / 20x、团队席位或 API，Max 购买与管理请使用 [Claude 官方渠道](https://claude.com/pricing)；
+- 先核对支持地区、账号状态和当前订单所需资料；不发送密码、验证码、恢复码或完整会话令牌；
+- 完成后回原账号核对 Pro 状态与有效期；成功开通后的官方风控封号不提供质保。
 
 验收完成的标志是：目标账号显示正确套餐、结算状态没有错误、登录邮箱与下单账号一致。只看到付款成功提示，不等于上述三项已经完成。
 

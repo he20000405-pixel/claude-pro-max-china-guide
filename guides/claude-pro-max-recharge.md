@@ -1,32 +1,34 @@
 ---
-title: "Claude Pro / Max 国内订阅：客服协助官方付款与验收流程"
-description: "Claude Pro、Max 5x、Max 20x 国内订阅流程：确认自己的 Claude 账号、选择套餐、提交 User ID、客服使用海外卡协助官方付款，并在 Billing 页面验收。"
+title: "Claude Pro 月度开通：iOS 内购协助与验收流程"
+description: "ChongGrok 当前提供自有 Claude 账号个人 Pro 月度开通，人工通过 iOS 内购办理；先核对账号、地区和资料要求，完成后验收 Pro 状态，不含 Max、团队席位或 API。"
 permalink: /guides/claude-pro-max-recharge/
 date_published: 2026-07-14
-last_modified_at: 2026-08-17
+last_modified_at: 2026-10-28
 breadcrumbs:
   - name: Claude 指南
     url: /
   - name: 专题
     url: /guides/
-  - name: Pro / Max 订阅流程
+  - name: Pro 月度开通流程
     url: /guides/claude-pro-max-recharge/
 faq:
   - question: "Claude 订阅协助需要提供密码吗？"
-    answer: "不需要 Claude 密码、邮箱密码、验证码或恢复码。客服确认后只提交本次履约所需的 Claude User ID。"
-  - question: "Claude Max 可以直接按固定人民币价格购买吗？"
-    answer: "当前主站公开页面以 Claude Pro 为主。Max 5x 或 Max 20x 应先联系客服确认账号、人民币金额、付款方式和验收规则。"
+    answer: "不需要 Claude 密码、邮箱密码、验证码或恢复码，不要发送完整会话令牌。资料以当前订单要求为准；若需 User ID，先确认用途和目标账号，只提交必要字段。"
+  - question: "这项服务是否包含 Claude Max？"
+    answer: "不包含。当前为自有 Claude 账号个人 Pro 月度开通，通过人工 iOS 内购办理；不提供 Max、团队席位或 API。Max 套餐知识与购买选项请查看 Claude 官方渠道。"
   - question: "付款后在哪里确认 Claude 会员？"
-    answer: "登录原目标账号，在 Claude 的 Settings > Billing 中确认当前套餐、付款状态和发票；同时确认使用的登录邮箱与下单时一致。"
+    answer: "登录原目标账号，在 Claude 的 Settings > Billing 中核对 Pro 状态与有效期，并确认登录邮箱、订单交付记录和账号权益一致。异常时先核查原订单，不重复付款。"
 ---
 
-# Claude Pro / Max 国内订阅流程
+# Claude Pro 月度开通与验收流程
 
-<p class="lead">先确认账号和目标套餐，再付款和提交 Claude User ID。完成后必须回到 Claude 官方 Billing 页面验收；不要只以聊天记录或第三方页面作为到账依据。</p>
+<p class="lead">先确认个人 Pro 月度服务、账号资格和所需资料，再按确认流程付款。人工 iOS 内购办理完成后，回原 Claude 账号验收 Pro 状态与有效期；不要只以聊天记录或第三方页面作为到账依据。</p>
 
 ## 一句话流程
 
-`进入 Claude 服务页 → 联系客服确认 Pro / Max → 付款 → 提交 User ID → 客服海外卡协助官方付款 → 回 Claude Billing 验收`
+`查看 Pro 月度服务 → 核对账号、地区与资料要求 → 按确认流程付款 → 人工 iOS 内购开通 → 回原 Claude 账号验收 Pro 状态与有效期`
+
+本文介绍 [ChongGrok 当前 Claude 服务](https://chonggrok.com/claude)：为已有账号开通个人 Pro 月度订阅，不含 Max、团队席位或 API。这里的办理流程不适用于 Max；如需 Max，请自行查看 [Claude 官方套餐页](https://claude.com/pricing)。
 
 <a class="primary-link" href="https://chonggrok.com/claude">进入 ChongGrok Claude 服务页</a>
 
@@ -42,15 +44,17 @@ faq:
 
 已有有效订阅或待处理交易时，不要立即再次购买，先确认原订单归属。
 
-## 第二步：选择 Pro、Max 5x 或 Max 20x
+## 第二步：确认 Pro 月度服务范围
 
-| 目标套餐 | 官方美国月费 | 建议动作 |
-| --- | ---: | --- |
-| Claude Pro | 网页月付 20 美元；年付以结账页为准 | 在主站查看实时人民币方案并与客服核对账号 |
-| Claude Max 5x | 100 美元 | 先联系客服确认是否可处理、金额和验收规则 |
-| Claude Max 20x | 200 美元 | 高金额方案必须先确认账号和交付范围 |
+| 核对项目 | 当前说明 |
+| --- | --- |
+| 交付内容 | 自有 Claude 账号个人 Pro 月度订阅 |
+| 办理方式 | 人工通过 iOS 内购开通 |
+| 不包含 | Max、团队席位、API 额度或永久会员 |
+| 付款前 | 核对实时人民币金额、账号状态、支持地区、资料与售后条件 |
+| 交付后 | 核对原账号 Pro 状态与有效期；官方风控封号不提供质保 |
 
-三档怎么选：[Claude Pro 与 Max 选择指南](../claude-pro-vs-max/)。
+官方三档怎么选，仍可阅读 [Claude Pro 与 Max 选择指南](../claude-pro-vs-max/)。套餐比较不代表本站提供 Max，也不表示通过 iOS 内购可以改变地区或身份验证要求。
 
 ## 第三步：付款并保留证据
 
@@ -64,16 +68,16 @@ faq:
 
 不要把同一订单同时交给多个渠道处理，也不要在状态未确认时重复付款。
 
-## 第四步：提交 Claude User ID
+## 第四步：核对本次订单需要的账号资料
 
-Claude User ID 是 ChongGrok 履约时用于定位目标账号的标识。它不是 Claude 密码，也不是 Anthropic 官方购买页面要求用户提交的材料。具体格式应以客服当前确认的真实界面为准，不根据旧教程、邮箱或显示名称猜测。
+先让客服说明当前订单所需的资料和核对入口，不根据旧教程自动提交 User ID。若本次办理确需 Claude User ID，它用于核对目标账号，不是 Claude 密码，也不是 Anthropic 官方购买页面要求用户向第三方提交的材料。具体字段应以当前确认界面为准，不根据邮箱或显示名称猜测。
 
 提交时遵守四条规则：
 
 - 只在客服确认的订单流程中提交；
 - 提交前核对它属于目标 Claude 账号；
 - 截图或公开文章中必须脱敏；
-- 不同时提交密码、验证码、恢复码或邮箱密码。
+- 不同时提交密码、验证码、恢复码、邮箱密码或完整会话令牌。
 
 首版不提供未经核实的内部接口或提取脚本。详细边界见：[Claude User ID 安全说明](../claude-user-id-safety/)。
 
@@ -86,19 +90,19 @@ alt：Claude User ID 脱敏核对示例
 获得当前真实清晰素材后再公开插入。
 -->
 
-## 第五步：客服协助官方付款
+## 第五步：人工通过 iOS 内购办理
 
-客服按已确认的目标账号和套餐，使用海外卡协助完成 Anthropic 官方会员订阅付款。处理过程中如发现账号、地区、订阅冲突或官方风控问题，应先暂停并说明状态，而不是承诺所有账号必然成功。
+按当前服务说明，由人工通过 iOS 内购为已确认的目标账号开通个人 Pro 月度订阅。处理过程中如发现账号、地区、订阅冲突或官方风控问题，应先暂停并说明状态，而不是承诺所有账号必然成功。若出现身份验证，用户应按 Claude 官方提示处理，ChongGrok 不代办验证。
 
 ## 第六步：回官方页面验收
 
 登录目标账号，进入 `Settings > Billing`，检查：
 
-- 当前计划显示 Pro、Max 5x 或 Max 20x；
-- 付款状态和发票是否存在；
+- 当前计划显示 Pro，有效期与订单交付内容一致；
+- 订单处理结果、付款记录与订阅状态是否一致；
 - 登录邮箱是否与目标账号一致；
 - Claude 网页、桌面端或移动端显示是否一致；
-- Claude Code 是否使用同一个 Pro / Max 账号登录。
+- Claude Code 是否使用同一个 Pro 账号登录。
 
 如果已产生官方扣款但仍显示 Free，进入[已付款仍显示 Free 排查](../claude-paid-but-still-free/)，不要重新购买。
 
@@ -118,7 +122,7 @@ alt：Claude User ID 脱敏核对示例
 
 ## 风险边界
 
-ChongGrok 不需要密码，但 User ID 仍应谨慎提交。任何线上订阅都可能受官方政策、账号状态、地区可用性和支付风控影响，不能承诺固定到账时间、绝对安全或所有账号都能开通。
+ChongGrok 是独立第三方服务，不代表 Anthropic 官方授权。不需要密码不等于没有账号与履约风险，User ID 等账号标识也应谨慎提交。付款或 iOS 内购不会改变支持地区和身份验证要求；开通失败按约定处理退款，成功开通后的官方风控封号不提供质保，订单交付争议仍可联系客服核查。不能承诺固定到账时间、绝对安全或所有账号都能开通。
 
 ## 官方来源
 
@@ -127,6 +131,6 @@ ChongGrok 不需要密码，但 User ID 仍应谨慎提交。任何线上订阅�
 - [What is the Pro plan?](https://support.claude.com/en/articles/8325606-what-is-the-pro-plan)
 - [Requesting a refund for a paid Claude plan](https://support.claude.com/en/articles/12386328-requesting-a-refund-for-a-paid-claude-plan)
 
-**事实核验日期：2026 年 8 月 17 日。**退款资格和支持入口以 Anthropic、Apple 与 Google 的实时页面为准。
+**服务说明核对：2026 年 10 月 28 日，依据 [ChongGrok Claude 页面](https://chonggrok.com/claude)。**官方退款与支持资料沿用 2026 年 8 月 17 日的核验，具体资格和入口以 Anthropic、Apple 与 Google 的实时页面为准。
 
 {% include faq.html %}

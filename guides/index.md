@@ -1,8 +1,8 @@
 ---
 title: "Claude Pro / Max 订阅、付款与账号状态专题"
-description: "Claude Pro、Max 5x、Max 20x 套餐选择、客服协助付款、User ID 安全、银行卡被拒、已付款仍显示 Free、续费失败和 Claude Code 专题目录。"
+description: "Claude Pro / Max 官方套餐知识、付款与账号排障目录，以及 ChongGrok 个人 Pro 月度 iOS 内购服务、账号资料核对和交付验收指南。"
 permalink: /guides/
-last_modified_at: 2026-08-05
+last_modified_at: 2026-10-28
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -23,9 +23,9 @@ breadcrumbs:
 ## 全部专题
 
 <div class="catalog-list">
-  <a class="catalog-item" href="{{ '/guides/claude-pro-max-recharge/' | relative_url }}"><span class="catalog-number">01</span><span class="catalog-copy"><strong>Pro / Max 客服协助付款与验收</strong><p>从账号确认、User ID、付款到 Claude 官方 Billing 页面验收。</p><span class="catalog-meta">约 6 分钟 · 完成目标：确认自己的账号已获得正确套餐</span></span><span class="intent-label">流程</span></a>
+  <a class="catalog-item" href="{{ '/guides/claude-pro-max-recharge/' | relative_url }}"><span class="catalog-number">01</span><span class="catalog-copy"><strong>Pro 月度开通：iOS 内购与验收</strong><p>核对账号、地区和资料要求，再验收 Pro 状态与有效期；不含 Max。</p><span class="catalog-meta">约 6 分钟 · 完成目标：确认自己的账号已获得正确订阅</span></span><span class="intent-label">流程</span></a>
   <a class="catalog-item" href="{{ '/guides/claude-pro-vs-max/' | relative_url }}"><span class="catalog-number">02</span><span class="catalog-copy"><strong>Pro、Max 5x、Max 20x 怎么选</strong><p>按实际工作量和使用频率判断，也说明何时暂时不需要升级。</p><span class="catalog-meta">约 5 分钟 · 完成目标：选出适合当前工作量的档位</span></span><span class="intent-label">套餐</span></a>
-  <a class="catalog-item" href="{{ '/guides/claude-user-id-safety/' | relative_url }}"><span class="catalog-number">03</span><span class="catalog-copy"><strong>Claude User ID 的用途与安全提交</strong><p>说明 ChongGrok 为什么需要账号标识，以及哪些信息绝不能一起提交。</p><span class="catalog-meta">约 4 分钟 · 完成目标：只提交本次履约所需的最小资料</span></span><span class="intent-label">账号</span></a>
+  <a class="catalog-item" href="{{ '/guides/claude-user-id-safety/' | relative_url }}"><span class="catalog-number">03</span><span class="catalog-copy"><strong>Claude User ID 的用途与安全提交</strong><p>先确认当前订单是否需要账号标识，再核对用途、归属和资料边界。</p><span class="catalog-meta">约 4 分钟 · 完成目标：只提交本次履约所需的最小资料</span></span><span class="intent-label">账号</span></a>
   <a class="catalog-item" href="{{ '/guides/claude-payment-errors/' | relative_url }}"><span class="catalog-number">04</span><span class="catalog-copy"><strong>银行卡被拒、账单地址与 3DS 排查</strong><p>先判断银行拒付还是验证失败，再按顺序检查付款信息。</p><span class="catalog-meta">约 7 分钟 · 完成目标：找到拒付责任方并停止无效重试</span></span><span class="intent-label">付款</span></a>
   <a class="catalog-item" href="{{ '/guides/claude-paid-but-still-free/' | relative_url }}"><span class="catalog-number">05</span><span class="catalog-copy"><strong>已付款但仍显示 Free</strong><p>核对最终收据、原购买入口、Claude 账号与实际权益。</p><span class="catalog-meta">约 8 分钟 · 完成目标：区分账单成功和权益未附着</span></span><span class="intent-label">高意向</span></a>
   <a class="catalog-item" href="{{ '/guides/claude-renewal-failed-back-to-free/' | relative_url }}"><span class="catalog-number">06</span><span class="catalog-copy"><strong>续费失败或被降级为 Free</strong><p>区分主动取消、到期、续费失败、待处理交易和登录错账号。</p><span class="catalog-meta">约 7 分钟 · 完成目标：回原计费渠道处理续费</span></span><span class="intent-label">续费</span></a>
@@ -33,7 +33,7 @@ breadcrumbs:
 </div>
 
 <section class="service-panel">
-  <h2>准备开通 Claude 会员？</h2>
-  <p>只有确认账号可以正常登录、当前没有有效或待处理订阅后，再查看 ChongGrok 实时方案。Max 5x/20x 需要先联系客服确认；不要以搜索快照中的旧价格作为付款依据。</p>
+  <h2>准备开通 Claude Pro 月度订阅？</h2>
+  <p>先确认账号可正常登录、本人符合支持地区要求，且没有未查清的有效订阅或待处理交易。ChongGrok 当前仅提供自有账号个人 Pro 月度开通，通过人工 iOS 内购办理，不含 Max、团队席位或 API。Max 内容是官方套餐知识，购买与管理请使用 Claude 官方渠道；不要按搜索快照中的旧价格付款。</p>
   <p><a class="primary-link" href="https://chonggrok.com/claude">查看 Claude 实时方案</a></p>
 </section>

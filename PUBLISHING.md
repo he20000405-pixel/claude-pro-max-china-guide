@@ -12,7 +12,8 @@
 2. `sitemap.xml` 包含首页、英文入口和全部专题。
 3. 手机端导航、标题和表格无横向页面溢出。
 4. 社交预览图为 1200×630，不使用 Anthropic 官方 Logo。
-5. 页面只链接 `https://chonggrok.com/claude`，Max 不显示未经主站确认的人民币固定价格。
+5. 商家服务链接使用 `https://chonggrok.com/claude`，仅说明自有账号个人 Pro 月度与人工 iOS 内购；Max 官方套餐知识与商家服务分开，不引导联系 ChongGrok 办理 Max。
+6. 桌面及移动端页头、页尾保留原导航，并能进入 `https://guides.chonggrok.com/` 指南门户。
 
 ## 搜索引擎
 

@@ -1,9 +1,9 @@
 ---
 title: "Claude User ID：用途、安全核对与提交边界"
-description: "说明 ChongGrok Claude 订阅履约所需 User ID 的用途、账号核对、脱敏和提交边界，以及为什么它不是密码或 Anthropic 官方订阅要求。"
+description: "说明 Claude 账号标识的用途、核对、脱敏与提交边界；是否需要 User ID 以当前订单要求为准，不把它等同密码或官方订阅要求。"
 permalink: /guides/claude-user-id-safety/
 date_published: 2026-07-14
-last_modified_at: 2026-08-17
+last_modified_at: 2026-10-28
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -15,7 +15,7 @@ faq:
   - question: "Claude User ID 是密码吗？"
     answer: "不是。它是用于标识 Claude 账号的字符串，不等同于密码；但仍属于账号相关信息，只应在确认的履约流程中提交。"
   - question: "User ID 是 Anthropic 官方购买套餐必须提交的吗？"
-    answer: "不是。Anthropic 官方订阅通常在用户登录自己的账号后完成。User ID 是 ChongGrok 客服履约时用于定位目标账号的服务要求。"
+    answer: "不是。Anthropic 官方订阅通常在用户登录自己的账号后完成。ChongGrok 订单是否需要 User ID，以当前订单说明为准；如果需要，应先明确核对用途与所属账号。"
   - question: "为什么本文没有提供完整提取接口？"
     answer: "Claude 页面和内部接口可能变化。没有当前真实入口与脱敏截图前，不应凭猜测发布可能失效或误导用户的获取步骤。"
 ---
@@ -40,7 +40,7 @@ Anthropic 的公开订阅流程是在用户登录自己的 Claude 账号后进�
 
 请按以下顺序处理：
 
-1. 先在 [ChongGrok Claude 页面](https://chonggrok.com/claude?utm_source=github_guides&utm_medium=referral&utm_campaign=claude_user_id&utm_content=contact_support)联系原客服渠道，并说明准备开通的套餐。
+1. 先在 [ChongGrok Claude 页面](https://chonggrok.com/claude?utm_source=github_guides&utm_medium=referral&utm_campaign=claude_user_id&utm_content=contact_support)联系原客服渠道，说明当前订单与账号状态。当前商家服务仅为个人 Pro 月度开通，不提供 Max。
 2. 等客服给出当前订单所需的核对入口和字段说明。
 3. 确认页面仍登录目标 Claude 账号，只复制明确要求的 User ID。
 4. 如果页面、字段或账号归属与客服说明不一致，立即停止，不要猜测其他字符串。
@@ -49,7 +49,7 @@ Anthropic 的公开订阅流程是在用户登录自己的 Claude 账号后进�
 
 ## 它解决什么问题
 
-ChongGrok 在协助用户给自己的 Claude 账号完成官方会员付款时，需要准确定位目标账号。Claude User ID 用于这个履约环节。
+ChongGrok 当前通过人工 iOS 内购为自有账号开通个人 Pro 月度订阅。办理时需核对目标账号；是否使用 User ID、从哪里核对以及需要哪些资料，以当前订单说明为准，不把历史流程当作每笔订单的固定要求。
 
 不要根据固定前缀、长度或字符规则猜测 User ID。具体格式只以客服当前确认的真实页面为准，也不要用旧截图、邮箱、显示名称或第三方教程中的示例代替当前账号标识。
 
@@ -119,7 +119,7 @@ User ID 提交成功不等于会员已经生效。客服通知处理完成后，
 
 ## 服务入口
 
-Claude Pro 实时方案和 Max 5x/20x 咨询入口：[chonggrok.com/claude](https://chonggrok.com/claude?utm_source=github_guides&utm_medium=referral&utm_campaign=claude_user_id)
+Claude Pro 月度服务入口：[chonggrok.com/claude](https://chonggrok.com/claude?utm_source=github_guides&utm_medium=referral&utm_campaign=claude_user_id)。当前通过人工 iOS 内购办理，不含 Max、团队席位或 API；Max 购买和管理请使用 [Claude 官方渠道](https://claude.com/pricing)。
 
 > ChongGrok 不需要 Claude 密码，但任何账号标识都应谨慎处理。线上会员订阅无法承诺零风险或所有账号均可开通。
 
@@ -128,6 +128,6 @@ Claude Pro 实时方案和 Max 5x/20x 咨询入口：[chonggrok.com/claude](http
 - [Anthropic：如何订阅 Claude Pro](https://support.claude.com/en/articles/8325609-how-do-i-sign-up-for-the-pro-plan)
 - [Anthropic：付费计划 Billing 常见问题](https://support.claude.com/en/articles/8325618-paid-plan-billing-faqs)
 
-**事实核验日期：2026 年 8 月 17 日。**Claude 页面、Billing 入口和服务所需字段可能变化，应以 Anthropic 官方页面和当前订单说明为准。
+**服务说明核对：2026 年 10 月 28 日。**官方订阅资料沿用 2026 年 8 月 17 日的核验。Claude 页面、Billing 入口和服务所需字段可能变化，应以 Anthropic 官方页面及当前订单说明为准。
 
 {% include faq.html %}

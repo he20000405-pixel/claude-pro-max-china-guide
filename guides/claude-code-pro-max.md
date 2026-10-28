@@ -3,7 +3,7 @@ title: "Claude Code 使用 Pro / Max：登录账号、会员额度与 API 计费
 description: "Claude Code 使用 Claude Pro 或 Max 会员的登录指南：用同一 Claude 账号认证，检查套餐、更新客户端、切换错误账号，并区分会员额度与 API 计费。"
 permalink: /guides/claude-code-pro-max/
 date_published: 2026-07-14
-last_modified_at: 2026-08-17
+last_modified_at: 2026-10-28
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -119,9 +119,9 @@ ChongGrok 只提供 Claude 会员订阅协助，不销售 Usage Credits、API �
 
 ## 订阅选择与国内付款
 
-先根据真实限制记录选择套餐，不因 Claude Code 的单次大型任务直接购买最高档。需要给自己的 Claude 账号开通 Pro，或咨询 Max 5x/20x 时，可访问 <https://chonggrok.com/claude>。
+先根据真实限制记录选择套餐，不因 Claude Code 的单次大型任务直接购买最高档。本文介绍官方 Pro / Max 的使用方式；ChongGrok 当前只提供自有账号个人 Pro 月度开通，通过人工 iOS 内购办理，不提供 Max、团队席位或 API。需要 Pro 时可到 <https://chonggrok.com/claude> 核对账号条件和售后；Max 购买与管理请查看 [Claude 官方渠道](https://claude.com/pricing)。已经购买但 Code 未识别会员时，先核对登录账号，不要重复购买。
 
-ChongGrok 不需要密码，由客服确认 User ID 和目标套餐后协助官方付款；完成后仍需回 Claude Billing 和 Claude Code 验收。
+Pro 服务所需资料以当前订单说明为准，不发送密码、验证码、恢复码或完整会话令牌。办理完成后仍需回原 Claude 账号和 Claude Code 验收，付款成功本身不证明终端已经登录正确账号。
 
 ## 官方来源
 

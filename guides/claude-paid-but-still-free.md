@@ -1,9 +1,9 @@
 ---
 title: "Claude 已付款仍显示 Free：Billing 与账号归属排查"
-description: "Claude Pro 或 Max 已扣款但仍显示 Free 时，检查官方收据、Settings > Billing、原登录邮箱、网页或应用商店购买入口，以及 ChongGrok 订单和 User ID。"
+description: "Claude Pro 或 Max 已扣款但仍显示 Free 时，检查收据、Billing、登录邮箱及原购买平台；ChongGrok Pro 订单另核订单号与已提交的账号资料。"
 permalink: /guides/claude-paid-but-still-free/
 date_published: 2026-07-14
-last_modified_at: 2026-08-17
+last_modified_at: 2026-10-28
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -83,14 +83,14 @@ Anthropic 官方 Billing FAQ 将“登录了不同邮箱”列为付费账号显
 
 ## 第五步：ChongGrok 订单路径
 
-如果这笔付款是 ChongGrok Claude 订阅协助订单：
+如果这笔付款是 ChongGrok Claude 订阅协助订单，先联系原订单客服核对交付。当前商家服务是人工通过 iOS 内购办理自有账号个人 Pro 月度开通，不含 Max；历史订单按原订单资料逐笔核查，不将 Max 官方订单改成重新购买 Pro。
 
 1. 核对订单号、目标套餐和提交时间；
-2. 确认提交的 User ID 属于当前目标账号；
+2. 核对已提交的必要账号资料；如果该订单使用了 User ID，确认它属于当前目标账号；
 3. 将 Claude Billing 状态和脱敏后的账号邮箱提供给客服核对；
 4. 等原订单状态查清后再决定下一步，不重复下单。
 
-User ID 不是密码，但仍属于账号相关信息。不要在公开评论中粘贴完整 User ID。
+User ID 不是密码，但仍属于账号相关信息。不要在公开评论中粘贴完整 User ID，也不要向客服发送密码、验证码、恢复码或完整会话令牌。
 
 ## 什么时候联系谁
 
@@ -123,6 +123,6 @@ User ID 不是密码，但仍属于账号相关信息。不要在公开评论中
 - [Anthropic Help：Cancel a paid subscription](https://support.anthropic.com/en/articles/8325617-how-do-i-cancel-my-paid-claude-subscription)
 - [Anthropic Help：Requesting a refund for a paid Claude plan](https://support.claude.com/en/articles/12386328-requesting-a-refund-for-a-paid-claude-plan)
 
-**事实核验日期：2026 年 8 月 17 日。**退款资格和入口以 Anthropic、Apple 与 Google 的实时页面为准。
+**服务说明核对：2026 年 10 月 28 日。**官方退款与支持资料沿用 2026 年 8 月 17 日的核验，资格和入口以 Anthropic、Apple 与 Google 的实时页面为准。
 
 {% include faq.html %}

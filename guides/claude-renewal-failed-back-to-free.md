@@ -3,7 +3,7 @@ title: "Claude Pro / Max 续费失败后变回 Free：付款方式、到期与�
 description: "Claude Pro 或 Max 续费失败、订阅到期或被降级为 Free 时，检查 Billing、付款方式、原购买平台、登录邮箱和跨平台重复订阅。"
 permalink: /guides/claude-renewal-failed-back-to-free/
 date_published: 2026-07-14
-last_modified_at: 2026-08-05
+last_modified_at: 2026-10-28
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -74,10 +74,10 @@ Anthropic 官方 Billing FAQ 说明，付款方式失败可能导致账号被降
 
 1. 提供原订单号、目标套餐和当前 Billing 状态；
 2. 确认原订阅已经到期且没有成功续费扣款；
-3. 由客服核对账号和 User ID；
-4. 确认新的金额与套餐后再付款。
+3. 由客服核对账号和当前订单所需资料，若需 User ID 先确认用途与所属账号；
+4. 确认账号符合当前个人 Pro 月度服务条件、金额与售后规则后再付款。
 
-实时入口：<https://chonggrok.com/claude>。Max 5x/20x 先联系客服，不以搜索快照中的人民币价格下单。
+当前服务见 <https://chonggrok.com/claude>：仅为自有账号开通个人 Pro 月度订阅，人工通过 iOS 内购办理，不含 Max、团队席位或 API。Max 的续费、恢复或降档请回原购买渠道或联系 Claude 官方支持；不要因为本文介绍 Max 排障就将其视为 ChongGrok 可办理的套餐。已开通后的官方风控封号不提供质保，不以搜索快照中的旧价格下单。
 
 ## 什么时候不要重新购买
 

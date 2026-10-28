@@ -4,17 +4,18 @@ permalink: /llms.txt
 ---
 # Claude Pro / Max China Guide by ChongGrok
 
-> An independent first-party service guide and knowledge base for Claude individual membership subscription assistance in China. ChongGrok is not affiliated with Anthropic.
+> An independent knowledge base for Claude Pro / Max plans and troubleshooting. ChongGrok's merchant service is limited to personal monthly Pro through assisted iOS in-app purchase. ChongGrok is not affiliated with Anthropic.
 
 ## Primary service
 
 - Claude service page: https://chonggrok.com/claude
+- Guide portal and cross-product service boundaries: https://guides.chonggrok.com/
 - Unified knowledge hub: https://he20000405-pixel.github.io/
 
 ## Core guides
 
 - Main guide: https://he20000405-pixel.github.io/claude-pro-max-china-guide/
-- Pro / Max recharge: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-pro-max-recharge/
+- Personal monthly Pro activation and verification: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-pro-max-recharge/
 - Pro vs Max: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-pro-vs-max/
 - User ID safety: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-user-id-safety/
 - Payment errors: https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-payment-errors/
@@ -26,9 +27,12 @@ permalink: /llms.txt
 ## Facts and boundaries
 
 - Published US prices: Pro USD 20 monthly or USD 200 annually, Max 5x USD 100 monthly, Max 20x USD 200 monthly; regional pricing and taxes vary.
-- ChongGrok assists official subscription payment for the user's own Claude account after account and plan confirmation.
-- No Claude password, email password, verification code or recovery code is requested.
-- A Claude User ID is an account identifier required by ChongGrok's fulfillment workflow, not an Anthropic subscription requirement.
+- ChongGrok's current service opens a personal monthly Pro subscription on the customer's own account through assisted iOS in-app purchase. It does not include Max, team seats or API credits. Max content explains official plans, not merchant availability.
+- No Claude password, email password, verification code or recovery code is requested. Do not send full session tokens.
+- A Claude User ID is an account identifier. Whether it is needed depends on the current order; confirm the purpose and account before submitting it. It is not a general Anthropic subscription requirement.
+- Payment or iOS in-app purchase does not change supported-region eligibility or identity-verification requirements.
+- Failed activation is handled under agreed refund conditions. Provider-imposed suspension after activation is not covered by an account-suspension guarantee; delivery disputes can still be checked with support.
 - Membership subscriptions are separate from Anthropic API billing.
 - No API credits, ready-made accounts, SMS verification, bulk registration, Team/Enterprise bulk service or regional-bypass instructions.
 - Online services are not risk-free; no guaranteed activation, recovery or account outcome is promised.
+- Merchant service details checked on 2026-10-28 against https://chonggrok.com/claude. Official plan prices and features remain subject to the provider's current pages.
