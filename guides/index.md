@@ -2,12 +2,28 @@
 title: "Claude Pro / Max 订阅、付款与账号状态专题"
 description: "Claude Pro / Max 官方套餐知识、付款与账号排障目录，以及 ChongGrok 个人 Pro 月度 iOS 内购服务、账号资料核对和交付验收指南。"
 permalink: /guides/
+schema_type: CollectionPage
 last_modified_at: 2026-10-28
 breadcrumbs:
   - name: Claude 指南
     url: /
   - name: 专题目录
     url: /guides/
+item_list:
+  - name: "Claude Pro 月度开通：iOS 内购协助与验收流程"
+    url: /guides/claude-pro-max-recharge/
+  - name: "Claude Pro、Max 5x、Max 20x 怎么选"
+    url: /guides/claude-pro-vs-max/
+  - name: "Claude User ID：用途、安全核对与提交边界"
+    url: /guides/claude-user-id-safety/
+  - name: "Claude 付款失败：银行卡被拒、账单地址、3DS 与支持地区排查"
+    url: /guides/claude-payment-errors/
+  - name: "Claude 已付款仍显示 Free：Billing 与账号归属排查"
+    url: /guides/claude-paid-but-still-free/
+  - name: "Claude Pro / Max 续费失败后变回 Free：付款方式、到期与重复订阅排查"
+    url: /guides/claude-renewal-failed-back-to-free/
+  - name: "Claude Code 使用 Pro / Max：登录账号、会员额度与 API 计费边界"
+    url: /guides/claude-code-pro-max/
 ---
 
 # Claude Pro / Max 专题目录
