@@ -1,7 +1,42 @@
 <footer class="site-footer">
   <div class="footer-shell">
-    <p><strong>ChongGrok AI 会员指南 · Claude</strong></p>
-    <p>本站为 chonggrok.com 的独立服务指南，与 Anthropic 不存在隶属、授权或官方合作关系。Claude 的套餐、模型、额度、地区可用性和价格以 Anthropic 实时展示为准。</p>
-    <p><a href="{{ site.portal_url }}">知识库总首页</a> · <a href="https://guides.chonggrok.com/">指南门户</a> · <a href="{{ '/guides/' | relative_url }}">Claude 专题</a> · <a href="{{ site.chatgpt_guide_url }}">ChatGPT</a> · <a href="{{ site.grok_guide_url }}">Grok</a> · <a href="{{ site.gemini_guide_url }}">Gemini</a> · <a href="{{ site.portal_url }}resources/ai-membership-safety-checklist/">订阅安全清单</a> · <a href="https://chonggrok.com/claude?utm_source=github_pages&amp;utm_medium=referral&amp;utm_campaign=claude_knowledge&amp;utm_content=footer">Claude Pro 服务入口</a></p>
+    <div class="footer-top">
+      <div class="footer-intro">
+        <span class="brand-mark" aria-hidden="true">CG</span>
+        <div>
+          <p class="footer-title">ChongGrok AI 会员指南 · Claude</p>
+          <p>{{ site.tagline }}</p>
+          <a class="footer-main-link" href="https://chonggrok.com/?utm_source=github_pages&amp;utm_medium=referral&amp;utm_campaign=claude_knowledge&amp;utm_content=footer_main_site">访问 chonggrok.com <span aria-hidden="true">→</span></a>
+        </div>
+      </div>
+      <nav class="footer-link-group" aria-label="产品知识库">
+        <strong>产品知识库</strong>
+        <a href="{{ site.chatgpt_guide_url | default: 'https://he20000405-pixel.github.io/chatgpt-plus-pro-china-guide/' }}">ChatGPT</a>
+        <a href="{{ site.grok_guide_url | default: 'https://he20000405-pixel.github.io/supergrok-china-guide/' }}">Grok</a>
+        <a href="{{ site.claude_guide_url | default: 'https://he20000405-pixel.github.io/claude-pro-max-china-guide/' }}">Claude</a>
+        <a href="{{ site.gemini_guide_url | default: 'https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/' }}">Gemini</a>
+        <a href="{{ '/guides/' | relative_url }}">Claude 全部专题</a>
+      </nav>
+      <nav class="footer-link-group" aria-label="站内资源">
+        <strong>查找答案</strong>
+        <a href="{{ site.portal_url }}search/">搜索指南</a>
+        <a href="{{ site.portal_url }}resources/">实用资源</a>
+        <a href="{{ site.portal_url }}resources/ai-membership-safety-checklist/">订阅安全清单</a>
+        <a href="{{ site.portal_url }}resources/ai-subscription-payment-troubleshooting/">付款排障决策树</a>
+        <a href="{{ site.portal_url }}labs/">技术实验室</a>
+        <a href="{{ site.portal_url }}about/">关于本站</a>
+      </nav>
+      <nav class="footer-link-group footer-extra" aria-label="更多入口">
+        <strong>更多入口</strong>
+        <a href="{{ site.guide_portal_url | default: 'https://guides.chonggrok.com/' }}">指南总入口</a>
+        <a href="{{ '/en/' | relative_url }}" lang="en">English</a>
+        <a href="{{ '/llms.txt' | relative_url }}">llms.txt</a>
+        <a href="https://chonggrok.com/claude?utm_source=github_pages&amp;utm_medium=referral&amp;utm_campaign=claude_knowledge&amp;utm_content=footer">Claude Pro 服务入口</a>
+      </nav>
+    </div>
+    <div class="footer-bottom">
+      <p class="footer-note">本站为 chonggrok.com 的独立服务指南，与 Anthropic 不存在隶属、授权或官方合作关系。Claude 的套餐、模型、额度、地区可用性和价格以 Anthropic 实时展示为准。</p>
+      <p>© {{ 'now' | date: '%Y' }} ChongGrok</p>
+    </div>
   </div>
 </footer>
