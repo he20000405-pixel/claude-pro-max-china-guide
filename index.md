@@ -2,7 +2,7 @@
 title: "Claude Pro / Max 国内订阅指南：付款与 User ID 排查"
 description: "Claude Pro / Max 套餐知识与付款排障；ChongGrok 服务仅为自有账号个人 Pro 月度开通，通过人工 iOS 内购办理，另含账号资料、续费与 Claude Code 指南。"
 permalink: /
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 breadcrumbs:
   - name: 首页
     url: /
@@ -88,7 +88,7 @@ Anthropic 官方建议优先检查受支持的账单地区、账单地址是否�
 ## 官方来源
 
 - [Claude plans and pricing](https://www.anthropic.com/pricing?subjects=claude&type=product)
-- [Claude Help：Choose a Claude plan](https://support.claude.com/en/articles/11049762-choose-a-claude-plan)
+- [Claude Help：Pro and Max plans](https://support.claude.com/en/collections/5953830-pro-and-max-plans)
 - [Claude Help：What is the Max plan?](https://support.claude.com/en/articles/11049741-what-is-the-max-plan)
 - [What is the Pro plan?](https://support.claude.com/en/articles/8325606-what-is-the-pro-plan)
 - [Paid Plan Billing FAQs](https://support.anthropic.com/en/articles/8325618-where-can-i-find-the-receipt-for-my-claude-subscription)

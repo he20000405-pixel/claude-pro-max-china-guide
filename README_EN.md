@@ -3,7 +3,7 @@ title: "Claude Pro and Max Subscription Guide"
 description: "Claude Pro and Max plan knowledge and payment troubleshooting. ChongGrok's merchant service covers personal monthly Pro through assisted iOS in-app purchase, not Max, team seats or API credits."
 permalink: /en/
 lang: en
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 breadcrumbs:
   - name: Claude Guide
     url: /
@@ -70,7 +70,7 @@ Service details were checked against [the current merchant page](https://chonggr
 ## Official references
 
 - [Anthropic plans and pricing](https://www.anthropic.com/pricing?subjects=claude&type=product)
-- [Choose a Claude plan](https://support.claude.com/en/articles/11049762-choose-a-claude-plan)
+- [Pro and Max plans](https://support.claude.com/en/collections/5953830-pro-and-max-plans)
 - [What is the Max plan?](https://support.claude.com/en/articles/11049741-what-is-the-max-plan)
 - [What is the Pro plan?](https://support.claude.com/en/articles/8325606-what-is-the-pro-plan)
 - [Paid Plan Billing FAQs](https://support.anthropic.com/en/articles/8325618-where-can-i-find-the-receipt-for-my-claude-subscription)
