@@ -72,7 +72,7 @@
 ## 官方资料
 
 - [Anthropic：Claude plans and pricing](https://www.anthropic.com/pricing?subjects=claude&type=product)
-- [Claude Help：Choose a Claude plan](https://support.claude.com/en/articles/11049762-choose-a-claude-plan)
+- [Claude Help：Pro and Max plans](https://support.claude.com/en/collections/5953830-pro-and-max-plans)
 - [Claude Help：What is the Max plan?](https://support.claude.com/en/articles/11049741-what-is-the-max-plan)
 - [Claude Help：What is the Pro plan?](https://support.claude.com/en/articles/8325606-what-is-the-pro-plan)
 - [Anthropic Help：Paid Plan Billing FAQs](https://support.anthropic.com/en/articles/8325618-where-can-i-find-the-receipt-for-my-claude-subscription)

@@ -3,7 +3,7 @@ title: "Claude Pro、Max 5x、Max 20x 怎么选"
 description: "对比 Claude Pro 网页月付 20 美元、年付实时结账价，以及 Max 5x 每月 100 美元和 Max 20x 每月 200 美元的官方定位、使用强度、Claude Code 场景和国内订阅入口。"
 permalink: /guides/claude-pro-vs-max/
 date_published: 2026-07-14
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 breadcrumbs:
   - name: Claude 指南
     url: /
@@ -99,7 +99,7 @@ Anthropic 官方说明 Pro 与 Max 都可以使用 Claude Code，但实际模型
 ## 官方来源
 
 - [Anthropic plans and pricing](https://www.anthropic.com/pricing?subjects=claude&type=product)
-- [Claude Help：Choose a Claude plan](https://support.claude.com/en/articles/11049762-choose-a-claude-plan)
+- [Claude Help：Pro and Max plans](https://support.claude.com/en/collections/5953830-pro-and-max-plans)
 - [Claude Help：What is the Max plan?](https://support.claude.com/en/articles/11049741-what-is-the-max-plan)
 - [What is the Pro plan?](https://support.claude.com/en/articles/8325606-what-is-the-pro-plan)
 - [Using Claude Code with Pro or Max](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
