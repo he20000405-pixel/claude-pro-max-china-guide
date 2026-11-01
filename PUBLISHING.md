@@ -12,7 +12,7 @@
 
 先在 `Actions` 确认本次 `main` 的三个任务均成功，再检查公开页面；不要把推送成功或单独的检查成功视为已上线。
 
-1. 首页、`/guides/`、`/en/`、7 个专题、`/robots.txt`、`/llms.txt` 和 `/sitemap.xml` 返回 200。
+1. 首页、`/guides/`、`/en/`、当前目录与站点地图中的全部专题、`/robots.txt`、`/llms.txt` 和 `/sitemap.xml` 返回 200。
 2. `sitemap.xml` 包含首页、英文入口和全部专题。
 3. 手机端导航、标题和表格无横向页面溢出。
 4. 社交预览图为 1200×630，不使用 Anthropic 官方 Logo。

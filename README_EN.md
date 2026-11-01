@@ -3,7 +3,7 @@ title: "Claude Pro and Max Subscription Guide"
 description: "Claude Pro and Max plan knowledge and payment troubleshooting. ChongGrok's merchant service covers personal monthly Pro through assisted iOS in-app purchase, not Max, team seats or API credits."
 permalink: /en/
 lang: en
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 breadcrumbs:
   - name: Claude Guide
     url: /
@@ -53,13 +53,13 @@ The process is complete only when the target account shows the expected plan in 
 
 ## Core guides
 
-- [Monthly Pro activation and verification (Chinese)](../guides/claude-pro-max-recharge/)
-- [Pro vs Max 5x vs Max 20x (Chinese)](../guides/claude-pro-vs-max/)
-- [Claude User ID safety (Chinese)](../guides/claude-user-id-safety/)
-- [Card decline and 3DS troubleshooting (Chinese)](../guides/claude-payment-errors/)
-- [Paid but still showing Free (Chinese)](../guides/claude-paid-but-still-free/)
-- [Renewal failed and downgraded to Free (Chinese)](../guides/claude-renewal-failed-back-to-free/)
-- [Claude Code with Pro or Max (Chinese)](../guides/claude-code-pro-max/)
+- [Monthly Pro activation and verification (Chinese)](https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-pro-max-recharge/)
+- [Pro vs Max 5x vs Max 20x (Chinese)](https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-pro-vs-max/)
+- [Claude User ID safety (Chinese)](https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-user-id-safety/)
+- [Card decline and 3DS troubleshooting (Chinese)](https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-payment-errors/)
+- [Paid but still showing Free (Chinese)](https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-paid-but-still-free/)
+- [Renewal failed and downgraded to Free (Chinese)](https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-renewal-failed-back-to-free/)
+- [Claude Code with Pro or Max (Chinese)](https://he20000405-pixel.github.io/claude-pro-max-china-guide/guides/claude-code-pro-max/)
 
 ## Service boundaries
 
