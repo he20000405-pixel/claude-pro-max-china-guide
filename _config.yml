@@ -13,8 +13,9 @@ asset_version: "20261101-audit-fixes"
 lang: "zh-CN"
 timezone: "Asia/Shanghai"
 author:
+  type: Organization
   name: "ChongGrok"
-  url: "https://chonggrok.com/claude"
+  url: "https://chonggrok.com/"
 
 # 收到站长平台验证码后再填写；不要使用示例值。
 # google_site_verification: ""
